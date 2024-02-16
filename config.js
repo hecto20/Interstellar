@@ -4,9 +4,7 @@ const config = {
   challenge: true,
   users: {
     // username: 'password', you can add multiple users.
-    TorresGemelasAdmin: 'torresgemelas2024',  
-    Hector: 'Hector2010.holiwi/',
-    Alberto: 'AlbertoEspejoContraseña',
+    admin: 'torresgemelaspro',
   },
 }
 export default config
